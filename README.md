@@ -1,3 +1,3 @@
-# HIT-BeamerTemplate
+# HIT-Beamer Template
 
-fork from <https://github.com/K-JW/CCNU_BeamerTemplate>
+Forked from <https://github.com/K-JW/CCNU_BeamerTemplate>
